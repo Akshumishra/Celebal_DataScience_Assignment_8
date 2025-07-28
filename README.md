@@ -12,7 +12,7 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot using Google Gemi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Celebal_DataScience_Assignment_8.git
+git clone https://github.com/Akshumishra/Celebal_DataScience_Assignment_8.git
 cd Celebal_DataScience_Assignment_8
 ```
 
