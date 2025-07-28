@@ -3,7 +3,7 @@ import streamlit as st
 from rag_gemini_bot import extract_text_from_pdfs, build_vector_store, generate_answer_with_gemini
 
 # ✅ Set your Gemini API Key here
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBNEyIz0_wn2h__TxPRTNDHEdJM-KLs0TM"
+os.environ["GOOGLE_API_KEY"] = "Enter_your_gemini_API_here"
 
 st.set_page_config(page_title="📚 RAG Chatbot with Gemini", page_icon="🤖")
 st.title("📖 RAG Chatbot using Gemini Pro")
